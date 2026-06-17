@@ -1,0 +1,7 @@
+{
+  "ai_1": "minimax",
+  "ai_2": "alphabeta",
+  "ai_1_depth": 2,
+  "ai_2_depth": 2,
+  "notes": "Default developer mode configuration for the refactored layout."
+}
